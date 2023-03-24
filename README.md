@@ -186,4 +186,4 @@ After installing the toolboxes just choose the desired video input and run it di
 * cameraVisionKINECT.m for Kinect sensors
 * raspVideo.m for Raspberry Pi cameras
 
-Special thanks for J. A. for his contribution.
+Special thanks to J. A. for his contribution.
